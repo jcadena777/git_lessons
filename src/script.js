@@ -1,5 +1,5 @@
 //declaracion de variables
-let saludar = "Hello world";
+let saludar = "Hello world 2";
 let nombre = "Jesus Cadena";
 //comentario intermedio
 //creacion de mensaje de saludo con el nombre
