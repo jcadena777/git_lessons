@@ -6,3 +6,7 @@ let nombre = "Jesus Cadena Real";
 console.log(`${nombre} dice ${saludar}`);
 
 //fin de comentarios
+
+let suma = (a, b) => a + b;
+
+console.log(`La suma de 5 y 5 es ${suma(5,5)}`);
